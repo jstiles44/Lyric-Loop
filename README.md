@@ -38,19 +38,16 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Create multi-player mode
 
 ## Project Schedule
-
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
+ 
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Jan 25-26| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
-|Jan 26| Project Approval | Incomplete
-|Jan 27| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Jan 28| Initial Clickable Model  | Incomplete
-|Jan 29| MVP | Incomplete
-|Feb 1| Presentations/Project Submission | Incomplete
+|Jan 25-26| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
+|Jan 26| Project Approval | Complete
+|Jan 27| Core Application Structure (HTML, CSS, etc.) | Complete
+|Jan 28| Initial Clickable Model  | Complete
+|Jan 29| MVP | Complete
+|Feb 1| Presentations/Project Submission | Complete
 
 ## Priority Matrix
 
